@@ -21,8 +21,8 @@ app.post('/', (req, res) => {
     port: 587,
     secure: false,
     auth: {
-      user: 'gzpromnoreply@gmail.com',
-      pass: 'Welcomeback2021',
+      user: 'press.itco@gmail.com',
+      pass: '!123456!',
     },
   });
   const message = {
